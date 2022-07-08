@@ -2046,6 +2046,8 @@ input, select, textarea {
 		cursor: default;
 		height: 3.5em;
 		line-height: 3.5em;
+
+		font-size: 25px;
 	}
 
 		#nav ul {
