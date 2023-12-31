@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Raza Imam"
-description              : "MS student at MBZUAI. "
+description              : "MS student at MBZUAI "
 repository               : "Razaimam45/razaimam45.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,9 +15,9 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      : ""
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : ""
+bing_site_verification   : ""
+baidu_site_verification  : ""
 
 # Site Author
 author:
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iipzwX0AAAAJ"
   email            : "raza.imam@mbzuai.ac.ae"
-  researchgate     :  "https://www.researchgate.net/profile/Raza-Imam-2"
+  researchgate     : "https://www.researchgate.net/profile/Raza-Imam-2"
   uri              :
   bitbucket        :
   codepen          :

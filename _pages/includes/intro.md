@@ -1,7 +1,7 @@
 # 🧐 About Me
 
-Hi there! I am a first-year PhD student in [Computer Science at the ETH Zurich](https://inf.ethz.ch/), under the supervision of Prof. [Florian Tramèr](https://floriantramer.com/).
-I completed my master's degree in [Software Engineering at Zhejiang University](http://www.cst.zju.edu.cn/cstenglish/main.htm) in March 2023, advised by Prof. [Chao Wu](https://scholar.google.com.hk/citations?user=gpTPt58AAAAJ&hl=zh-CN).
+Hi there! I am a final-year MS student in [Machine Learning at the Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik).
+I completed my bachelor's degree in [Computer Science at Aligarh Muslim University](https://www.amu.ac.in/) in July 2022, advised by Dr. [Faisal Anwer](https://scholar.google.com/citations?user=S-VW0mAAAAAJ&hl=en) and Dr. [Mohammad Nadeem](https://scholar.google.com/citations?user=yaEgXYMAAAAJ&hl=en).
 Before that, I received my Bachelor's degree at Hainan University in July 2020.
 
 <!-- Previously, I interned at Sony AI for half a year, focusing on AI security and model compression. Before that, I also interned at Tencent Youtu Lab for one year, exploring federated learning and adversarial attacks. -->
