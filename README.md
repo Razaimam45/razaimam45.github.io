@@ -12,7 +12,7 @@ Razaimam45 Homepage
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)
 </div>
 
-<p align="center"><h1> <a href="https://razaimam45.github.io/">Visit Homepage</a> </h1></p>
+<p align="center"><h1> <a href="https://razaimam45.github.io/" target="_blank">Visit Homepage</a> </h1></p>
 
 <!-- <p align="center">
     <br>
