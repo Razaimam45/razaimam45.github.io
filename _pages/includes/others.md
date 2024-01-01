@@ -41,13 +41,13 @@ I love playing sports and always make time for football, badminton, and table te
 <!-- ### My cat
 My girlfriend and I have three cats together, they are very adorable and have brought a lot of fun to our lives! -->
 
-<img src="../../images/cat1.jpeg" width = "300" alt="图片名称" align=center />  
+<!-- <img src="../../images/cat1.jpeg" width = "300" alt="图片名称" align=center />  
 <img src="../../images/cat4.jpeg" width = "300" alt="图片名称" align=center /> 
-<img src="../../images/cat2.jpeg" width = "300" alt="图片名称" align=center /> 
+<img src="../../images/cat2.jpeg" width = "300" alt="图片名称" align=center />  -->
 
-<div class="badge">Football Team</div><img src='images/RAZA_football.jpeg' alt="sym" width="100%"/>
-<div class="badge">MBZUAI Sports Week</div><img src='images/RAZA_basketball.jpeg' alt="sym" width="100%"/>
-<div class="badge">Georgia Trip</div><img src='images/RAZA_travel.jpeg' alt="sym" width="100%"/>
+<div class="badge">Football Team</div><img src='images/RAZA_football.jpeg' alt="sym" width="300"/>
+<div class="badge">MBZUAI Sports Week</div><img src='images/RAZA_basketball.jpeg' alt="sym" width="300"/>
+<div class="badge">Georgia Trip</div><img src='images/RAZA_travel.jpeg' alt="sym" width="300"/>
 
 
 
