@@ -12,7 +12,7 @@ Razaimam45 Homepage
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)
 </div>
 
-<p align="center">Raza Imam Personal Homepage</p>
+<p align="center"><h1>[Visit](https://razaimam45.github.io/)</h1></p>
 
 <!-- <p align="center">
     <br>
@@ -20,9 +20,8 @@ Razaimam45 Homepage
     <br>
 </p> -->
 
-## Visit 
 <!-- - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/) -->
-[Personal Homepage of the author Raza Imam](https://razaimam45.github.io/)
+<!-- ### [Visit](https://razaimam45.github.io/) -->
 
 <!-- ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
