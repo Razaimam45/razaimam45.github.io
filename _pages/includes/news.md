@@ -9,16 +9,17 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2023.10</strong>: Please feel free to review the project I recently collaborated on, <a href="https://arxiv.org/abs/2310.10402">Real-Fake: Effective Training Data Synthesis Through Distribution Matching</a>.</li>
-    <li><strong>2023.07</strong>: Two papers are accepted by ICCV 2023 (one first-authored)!</li>
-    <li><strong>2023.06</strong>: Please feel free to review our recent project, <a href="https://arxiv.org/abs/2306.16064">Federated Generative Learning with Foundation Models</a>.</li>
-    <li><strong>2023.03</strong>: 🎉 I graduate from ZJU with First-Class Honours.</li>
-    <li><strong>2023.02</strong>: One paper (co-first author) is accepted by CVPR 2023 (<font color="red">Highlight; 2.5% acceptance rate </font>)!</li>
-    <li><strong>2023.01</strong>: One first-authored paper is accepted by ICLR 2023!</li>
-    <li><strong>2022.11</strong>: One first-authored paper is accepted by AAAI 2023 (<font color="red">Oral</font>)!</li>
-    <li><strong>2022.09</strong>: One first-authored paper is accepted by NeurIPS 2022!</li>
-    <li><strong>2022.05</strong>: One first-authored paper is accepted by ICML 2022!</li>
-    <li><strong>2022.03</strong>: One first-authored paper is accepted by CVPR 2022!</li>
+    <li><strong>2023.11</strong>: Please feel free to review the project I recently presented at PlanetX Challenge hosted by UAE Space Agency at COP28, <a href="https://arxiv.org/">FLARE: A Fusion of Feature-Learning, Prompt-driven Diffusion, and Augmented Resolution Enhancement in Astronomy</a>.</li>
+    <li><strong>2023.10</strong>: One paper is accepted by 42nd ICCE, Las Vegas, USA, 2024!</li>
+    <li><strong>2023.10</strong>: Please feel free to review our recent project, <a href="https://arxiv.org/">EVOKE: Emotion Enabled Virtual Avatar Mapping
+    Using Optimized Knowledge Distillation</a>.</li>
+    <li><strong>2023.09</strong>: One first-authored paper is accepted by DART Workshop, MICCAI, 2023 (<font color="red">Poster</font>)! </li>
+    <li><strong>2023.07</strong>: 🎉 I completed my internship at Fujairah Research Center, UAE.</li>
+    <li><strong>2023.07</strong>: One first-authored paper is accepted by 27th MIUA, Scotland, 2023 (<font color="red">Abstract</font>)! </li>
+    <li><strong>2023.05</strong>: One first-authored paper is accepted by Epistemic AI Workshop, 39th UAI Conference, 2023 (<font color="red">Poster</font>)!</li>
+    <li><strong>2022.10</strong>: Please feel free to review our accepted journal article on recommender systems and filter bubbles, <a href="https://doi.org/10.1002/widm.1512">FFilter bubbles in recommender systems: Fact or Fallacy—A systematic review</a>.</li>
+    <li><strong>2022.06</strong>: 🎉 I graduated from Aligarh Muslim University with First-Class Honours.</li>
+    <!-- <li><strong>2023.02</strong>: One first-authored paper is accepted by DART Workshop, MICCAI, 2023! (<font color="red">Highlight; 2.5% acceptance rate </font>)!</li> -->
   </ul>
 </div>
 
