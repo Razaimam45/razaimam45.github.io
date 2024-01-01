@@ -17,7 +17,7 @@
     <li><strong>2023.07</strong>: 🎉 I completed my internship at Fujairah Research Center, UAE.</li>
     <li><strong>2023.07</strong>: One first-authored paper is accepted by 27th MIUA, Scotland, 2023 (<font color="red">Abstract</font>)! </li>
     <li><strong>2023.05</strong>: One first-authored paper is accepted by Epistemic AI Workshop, 39th UAI Conference, 2023 (<font color="red">Poster</font>)!</li>
-    <li><strong>2022.10</strong>: Please feel free to review our accepted journal article on recommender systems and filter bubbles, <a href="https://doi.org/10.1002/widm.1512">FFilter bubbles in recommender systems: Fact or Fallacy—A systematic review</a>.</li>
+    <li><strong>2022.10</strong>: Please feel free to review our accepted journal article on recommender systems and filter bubbles, <a href="https://doi.org/10.1002/widm.1512">Filter bubbles in recommender systems: Fact or Fallacy—A systematic review</a>.</li>
     <li><strong>2022.06</strong>: 🎉 I graduated from Aligarh Muslim University with First-Class Honours.</li>
     <!-- <li><strong>2023.02</strong>: One first-authored paper is accepted by DART Workshop, MICCAI, 2023! (<font color="red">Highlight; 2.5% acceptance rate </font>)!</li> -->
   </ul>
