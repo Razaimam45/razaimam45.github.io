@@ -68,6 +68,7 @@ Razaimam45 Homepage
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command. -->
 
 # Acknowledges
+The author of this repository thanks <b>AcadHomepage</b>.
 
 [![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
