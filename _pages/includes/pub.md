@@ -18,7 +18,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCE 2024</div><img src='images/RAZA_evoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EVOKE](https://arxiv.org/) \\
+[EVOKE: Emotion Enabled Virtual Avatar Mapping Using Optimized Knowledge Distillation](https://arxiv.org/) \\
 Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*</sup>, Meriem Chkir, Mohamad Hoda, Abdulmotaleb El Saddik. (ICCE 2024) 
 
 - EVOKE leverages knowledge distillation involving multi-label classification on the publicly available DEAP dataset, which covers valence, arousal, and dominance as primary emotional classes. Remarkably, our distilled model, a CNN with only two convolutional layers and 18 times fewer parameters than the teacher model, achieves competitive results, boasting an accuracy of 87% while demanding far less computational resources. This equilibrium between performance and deployability positions our framework as an ideal choice for virtual environment systems. Furthermore, the multi-label classification outcomes are utilized to map emotions onto custom-designed 3D avatars.
