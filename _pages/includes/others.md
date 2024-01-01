@@ -73,7 +73,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
     }
 
     img {
-        width: 33%;
+        width: 300;
     }
 </style>
 
