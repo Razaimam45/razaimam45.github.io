@@ -13,7 +13,7 @@ Razaimam45 Homepage
 </div>
 
 <h1 align="center"> 
-    <a href="https://razaimam45.github.io/" target="_blank">Visit Homepage</a> 
+    <a href="https://razaimam45.github.io/" target="_blank" rel="noopener noreferrer">Visit Homepage</a> 
 </h1>
 
 <!-- <p align="center">
