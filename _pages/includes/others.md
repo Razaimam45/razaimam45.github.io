@@ -49,6 +49,28 @@ My girlfriend and I have three cats together, they are very adorable and have br
 <div class="badge">MBZUAI Sports Week</div><img src='images/RAZA_basketball.jpeg' alt="sym" width="33%"/>
 <div class="badge">Georgia Trip</div><img src='images/RAZA_travel.jpeg' alt="sym" width="33%"/> -->
 
+<style>
+    .container {
+        display: flex;
+        flex-wrap: nowrap; /* Ensure items are not wrapped to the next line */
+        overflow-x: auto; /* Enable horizontal scrolling if needed */
+    }
+
+    .badge {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-top: 0.5em;
+        margin-left: -0.5em;
+        color: white;
+        background-color: #00369f;
+        font-size: 0.8em;
+    }
+
+    img {
+        width: 33%;
+    }
+</style>
+
 <div class="container">
     <div class="badge">Football Team</div>
     <img src='images/RAZA_football.jpeg' alt="sym"/>
@@ -57,6 +79,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
     <div class="badge">Georgia Trip</div>
     <img src='images/RAZA_travel.jpeg' alt="sym"/>
 </div>
+
 
 
 

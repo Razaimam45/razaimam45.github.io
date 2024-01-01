@@ -108,8 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.container {
-    display: flex;
-    flex-wrap: nowrap; /* Ensure items are not wrapped to the next line */
-    overflow-x: auto; /* Enable horizontal scrolling if needed */
-}
