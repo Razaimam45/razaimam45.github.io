@@ -56,11 +56,17 @@ My girlfriend and I have three cats together, they are very adorable and have br
         overflow-x: auto; /* Enable horizontal scrolling if needed */
     }
 
+    .badge-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 1rem; /* Adjust margin as needed */
+    }
+
     .badge {
         padding-left: 1rem;
         padding-right: 1rem;
         margin-top: 0.5em;
-        margin-left: -0.5em;
         color: white;
         background-color: #00369f;
         font-size: 0.8em;
@@ -72,12 +78,20 @@ My girlfriend and I have three cats together, they are very adorable and have br
 </style>
 
 <div class="container">
-    <div class="badge">Football Team</div>
-    <img src='images/RAZA_football.jpeg' alt="sym"/>
-    <div class="badge">MBZUAI Sports Week</div>
-    <img src='images/RAZA_basketball.jpeg' alt="sym"/>
-    <div class="badge">Georgia Trip</div>
-    <img src='images/RAZA_travel.jpeg' alt="sym"/>
+    <div class="badge-container">
+        <div class="badge">Football Team</div>
+        <img src='images/RAZA_football.jpeg' alt="sym"/>
+    </div>
+    
+    <div class="badge-container">
+        <div class="badge">MBZUAI Sports Week</div>
+        <img src='images/RAZA_basketball.jpeg' alt="sym"/>
+    </div>
+    
+    <div class="badge-container">
+        <div class="badge">Georgia Trip</div>
+        <img src='images/RAZA_travel.jpeg' alt="sym"/>
+    </div>
 </div>
 
 
