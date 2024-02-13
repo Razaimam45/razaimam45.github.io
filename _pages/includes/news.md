@@ -11,7 +11,7 @@
   <ul>
     <li><strong>2024.02</strong>: Our project done at Fujairah Research Center, UAE on the farm monitoring problem is out now. Please feel free to check it out, <a href="https://arxiv.org/abs/2402.07059">Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance</a>.</li>
     <li><strong>2023.11</strong>: Please feel free to review the project I recently presented at PlanetX Challenge hosted by UAE Space Agency at COP28, <a href="https://arxiv.org/">FLARE: A Fusion of Feature-Learning, Prompt-driven Diffusion, and Augmented Resolution Enhancement in Astronomy</a>.</li>
-    <li><strong>2023.10</strong>: One paper is accepted by 42nd ICCE, Las Vegas, USA, 2024!</li>
+    <li><strong>2023.10</strong>: One paper is accepted by 42nd ICCE, Las Vegas, USA, 2024 (<font color="red">Poster</font>)!</li>
     <li><strong>2023.10</strong>: Please feel free to review our recent project, <a href="https://arxiv.org/abs/2401.06957">EVOKE: Emotion Enabled Virtual Avatar Mapping
     Using Optimized Knowledge Distillation</a>.</li>
     <li><strong>2023.09</strong>: One first-authored paper is accepted by DART Workshop, MICCAI, 2023 (<font color="red">Poster</font>)! </li>
