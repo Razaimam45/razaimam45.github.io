@@ -19,7 +19,7 @@
 <div class='paper-box-text' markdown="1">
 
 [FLARE up your data: Diffusion-based Augmentation Method in Astronomical Imaging](https://arxiv.org/abs/2405.13267) \\
-<b>Raza Imam<sup>*</sup><sup>#</sup></b>, Mohammed Talha Alam<sup>*</sup>, Mohsen Guizani, Fakhri Karray.  (BMVC 2024)
+<b>Raza Imam<sup>*</sup><sup>#</sup></b>, Mohammed Talha Alam<sup>*</sup>, Mohsen Guizani, Fakhri Karray.  (BMVC 2024) <a href="https://github.com/Razaimam45/PlanetX_Dxb">code(+)data</a> 
 
 - FLARE is a diffusion-based augmentation method which initially enhances the resolution of raw input samples. Given the widespread dispersion of these raw inputs in feature space, we have implemented a two-stage augmentation strategy. Also, we introduce an optimally distributed dataset via FLARE: SpaceNet, comprising approximately 12,900 samples.
 
