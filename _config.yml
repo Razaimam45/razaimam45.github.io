@@ -22,7 +22,7 @@ baidu_site_verification  : ""
 # Site Author
 author:
   name             : "Raza Imam"
-  avatar           : "images/RAZA_dp.jpeg"
+  avatar           : "images/RAZA_dp2.jpeg"
   bio              : #"ETH Zurich"
   location         : "Abu Dhabi, United Arab Emirates"
   employer         :
@@ -135,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Dubai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
