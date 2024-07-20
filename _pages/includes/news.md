@@ -10,7 +10,7 @@
 <div class="scrollable">
   <ul>
     <!-- New stuff to add here  -->
-    <li><strong>2024.07</strong>: One first-authored paper is accepted at BMVC, Glasgow, UK, 2024 (<font color="red">Oral</font>)!</li>
+    <li><strong>2024.07</strong>: One first-authored paper is accepted at 35th BMVC Conference, Glasgow, UK, 2024 (<font color="red">Oral</font>)!</li>
     <li><strong>2024.06</strong>: Two first-authored papers on Astronomical Imaging are accepted at  SPAICE Conference, European Space Agency, UK, 2024 (<font color="red">Oral</font>)!</li>
     <li><strong>2024.05</strong>: 🎉 Successfully defended my MS thesis (titled "Test-Time Adaptation for Zero-Shot Generalization of Large Vision-Language Models") on 4th April, 2024 at MBZUAI!</li>
     <li><strong>2024.04</strong>: Presented a project at 5th UAE GSRC Conference, Al Ain, UAE, 2024 (<font color="red">Poster</font>)!</li>
