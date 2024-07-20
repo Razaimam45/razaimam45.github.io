@@ -15,10 +15,34 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2024</div><img src='images/RAZA_BMVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FLARE up your data: Diffusion-based Augmentation Method in Astronomical Imaging](https://arxiv.org/abs/2405.13267) \\
+<b>Raza Imam<sup>*</sup><sup>#</sup></b>, Mohammed Talha Alam<sup>*</sup>, Mohsen Guizani, Fakhri Karray.  (BMVC 2024)
+
+- FLARE is a diffusion-based augmentation method which initially enhances the resolution of raw input samples. Given the widespread dispersion of these raw inputs in feature space, we have implemented a two-stage augmentation strategy. Also, we introduce an optimally distributed dataset via FLARE: SpaceNet, comprising approximately 12,900 samples.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAICE 2024</div><img src='images/RAZA_CosmoCLIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging](https://arxiv.org/abs/2407.07315) \\
+<b>Raza Imam<sup>*</sup><sup>#</sup></b>, Mohammed Talha Alam<sup>*</sup>, Umaima Rahman, Mohsen Guizani, Fakhri Karray.  (SPAICE 2024)
+
+- We introduce CosmoCLIP, an astronomical image-text contrastive learning framework precisely fine-tuned on the pre-trained CLIP model using SpaceNet and BLIP-based captions. The rich semantics derived from this SpaceNet and BLIP descriptions, when learned contrastively, enable CosmoCLIP to achieve superior generalization across various in-domain and out-of-domain tasks in astronomical imaging.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCE 2024</div><img src='images/RAZA_evoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EVOKE: Emotion Enabled Virtual Avatar Mapping Using Optimized Knowledge Distillation](https://arxiv.org/) \\
+[EVOKE: Emotion Enabled Virtual Avatar Mapping Using Optimized Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10444200/) \\
 Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*</sup>, Meriem Chkir, Mohamad Hoda, Abdulmotaleb El Saddik. (ICCE 2024) 
 
 - EVOKE leverages knowledge distillation involving multi-label classification on the publicly available DEAP dataset, which covers valence, arousal, and dominance as primary emotional classes. Remarkably, our distilled model, a CNN with only two convolutional layers and 18 times fewer parameters than the teacher model, achieves competitive results, boasting an accuracy of 87% while demanding far less computational resources. This equilibrium between performance and deployability positions our framework as an ideal choice for virtual environment systems. Furthermore, the multi-label classification outcomes are utilized to map emotions onto custom-designed 3D avatars.
@@ -50,7 +74,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/RAZA_brain tumor.jpeg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2023</div><img src='images/RAZA_brain tumor.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optimizing Brain Tumor Classification: A Comprehensive Study on Transfer Learning and Imbalance Handling in Deep Learning Models](https://arxiv.org/abs/2308.06821) \\
@@ -59,7 +83,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
 
 - In this work, we present a novel deep learning-based approach, called Transfer Learning-CNN, for brain tumor classification using MRI data. The proposed model leverages the predictive capabilities of existing publicly available models by utilizing their pre-trained weights and transferring those weights to the CNN. We investigate the impact of different loss functions, including focal loss, and oversampling methods, such as SMOTE and ADASYN, in addressing the data imbalance issue. Notably, the proposed strategy, which combines VGG-16 and CNN, achieved an impressive accuracy rate of 96%, surpassing alternative approaches significantly.
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier JKSU</div><img src='images/RAZA_abe_survey.jpg' alt="sym" width="100%"></div></div>
