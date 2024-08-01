@@ -11,6 +11,7 @@
 </style>
 
 # 📖 Educations
+- <sup>&#x1F393;</sup>  *2024.08 - Present*, PhD in Computer Vision, Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE.
 - <sup>&#x1F393;</sup>  *2022.08 - 2024*, Masters in Machine Learning, Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE.
 - <sup>&#x1F393;</sup>  *2019.08 - 2022.06*, Bachelors in Computer Science, Aligarh Muslim University, Aligarh, India.
 
