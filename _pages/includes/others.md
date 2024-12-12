@@ -86,7 +86,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
 
     <div class="badge-container">
         <div class="badge">Football Team</div>
-        <img src='images/RAZA_football2.jpg' alt="sym"/>
+        <img src='images/RAZA_football.jpeg' alt="sym"/>
     </div>
     
     <div class="badge-container">
