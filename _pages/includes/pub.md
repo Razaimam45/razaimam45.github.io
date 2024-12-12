@@ -15,6 +15,15 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/RAZA_WACV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models](https://arxiv.org/abs/2407.15913) \\
+  <b>Raza Imam<sup>#</sup></b>, Hanan Ghani, Muhammad Huzaifa, Karthik Nandakumar.  (WACV 2025) <a href="https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation">code</a> 
+
+- This work introduces Test-Time Low-rank adaptation (TTL) as an alternative to prompt tuning for zero-shot generalization of large-scale VLMs. Taking inspiration from recent advancements in efficiently fine-tuning large language models, TTL offers a test-time parameter-efficient adaptation approach that updates the attention weights of the transformer encoder by maximizing prediction confidence by using a weighted entropy loss that enforces consistency among predictions of augmented samples.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2024</div><img src='images/RAZA_BMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +48,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCE 2024</div><img src='images/RAZA_evoke.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCE 2024</div><img src='images/RAZA_evoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EVOKE: Emotion Enabled Virtual Avatar Mapping Using Optimized Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10444200/) \\
@@ -48,7 +57,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
 - EVOKE leverages knowledge distillation involving multi-label classification on the publicly available DEAP dataset, which covers valence, arousal, and dominance as primary emotional classes. Remarkably, our distilled model, a CNN with only two convolutional layers and 18 times fewer parameters than the teacher model, achieves competitive results, boasting an accuracy of 87% while demanding far less computational resources. This equilibrium between performance and deployability positions our framework as an ideal choice for virtual environment systems. Furthermore, the multi-label classification outcomes are utilized to map emotions onto custom-designed 3D avatars.
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023, spotlight</div><img src='images/RAZA_seda.png' alt="sym" width="100%"></div></div>

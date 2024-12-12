@@ -10,10 +10,12 @@
 <div class="scrollable">
   <ul>
     <!-- New stuff to add here  -->
+    <li><strong>2024.11</strong>: Speaker at <a href="https://www.xpanse.world/">XPANSE 2024</a> in the Science Pitch Talks on the topic of "FLARE Up Your Data"!</li>
+    <li><strong>2024.10</strong>: One first-authored paper on Low-Rank Test-Time adaptation is accepted at WACV 2025, Tucson, Arizona, USA (<font color="red">Poster</font>)!</li>
     <li><strong>2024.08</strong>: 🎉 Starting my PhD in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence: MBZUAI, UAE!</li>
     <li><strong>2024.07</strong>: Please feel free to review my MS project on Zero-shot generalization of Vision-Language models, <a href="https://arxiv.org/abs/2407.15913">Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models</a>.</li>
     <li><strong>2024.07</strong>: We publicly release our Astronomical imaging dataset, SpaceNet 🚀, for Recognition Tasks. Please feel free to check out on Kaggle, <a href="https://www.kaggle.com/datasets/razaimam45/spacenet-an-optimally-distributed-astronomy-data/">SpaceNet: A Comprehensive Astronomical Dataset</a>!</li>
-    <li><strong>2024.07</strong>: One first-authored paper on a novel augmentation strategy is accepted at 35th BMVC Conference, Glasgow, UK, 2024 (<font color="red">Oral</font>)!</li>
+    <li><strong>2024.07</strong>: One first-authored paper on a novel augmentation strategy is accepted at 35th BMVC Conference, Glasgow, UK, 2024 (<font color="red">Poster</font>)!</li>
     <li><strong>2024.06</strong>: Two first-authored papers on Astronomical Imaging are accepted at SPAICE Conference, European Space Agency, UK, 2024 (<font color="red">Oral</font>)!</li>
     <li><strong>2024.06</strong>: 🎉 Graduated with MS in Machine Learning on 6th June, 2024 at MBZUAI!</li>
     <li><strong>2024.04</strong>: 🎉 Successfully defended my MS thesis (titled "Test-Time Adaptation for Zero-Shot Generalization of Large Vision-Language Models") on 4th April, 2024 at MBZUAI!</li>

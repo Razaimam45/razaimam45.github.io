@@ -20,7 +20,10 @@
 - Journal Reviewer: 
     - IEEE Transactions on Circuits and Systems for Video Technology
     - IEEE Access
-- Conference Reviewer: Sustainability and Resilience Conference (SRC) 2021, 2022, 2023.
+    - Nature Scientific Reports
+    - Cryptologia
+- Conference Reviewer: 
+    - Sustainability and Resilience Conference (SRC) 2021, 2022, 2023.
 
 
 # 💻 Internships
@@ -81,7 +84,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
 <div class="container">
     <div class="badge-container">
         <div class="badge">Football Team</div>
-        <img src='images/RAZA_football.jpeg' alt="sym"/>
+        <img src='images/RAZA_football2.jpg' alt="sym"/>
     </div>
     
     <div class="badge-container">
