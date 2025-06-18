@@ -18,7 +18,7 @@
 
 # 💬 Services
 
-- Journal Reviewer**:  
+- Journal Reviewer:  
     - Nature Scientific Reports  
     - IEEE Transactions on Circuits and Systems for Video Technology  
     - ACM Transactions on Intelligent Systems and Technology  
@@ -27,7 +27,7 @@
     - Cryptologia  
     - IEEE Transctions of Artificial Intelligence
 
-- Conference Reviewer**:  
+- Conference Reviewer:  
     - International Conference on Computer Vision (ICCV)  
     - Winter Conference on Applications of Computer Vision (WACV)  
     - Medical Image Understanding and Analysis (MIUA)  
