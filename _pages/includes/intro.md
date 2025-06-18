@@ -18,5 +18,5 @@ Hi there! I am a second year PhD. candidate in [Computer Vision at the Mohamed B
 - Domain Generalization: Model Merging, Zero-shot Generalization
 - Current Focus: Robust Dermatology VLMs, LLM Merging
 
-🤔 I'm currently involved in 3 main projects: Test-time merging on Med-LLMs, A survey on Unsupervised Functions, Low-shot generalization of Dermatology-VLM. Please feel free to contact at <raza dot imam at mbzuai dot ac dot ae> for collaboration.
+🤔 I'm currently involved in 3 main projects: Test-time merging on Med-LLMs, A survey on Unsupervised Functions, Low-shot generalization of Dermatology-VLM. Please feel free to contact at <span style="font-family:'Courier New', monospace;">raza dot imam at mbzuai dot ac dot ae</span> for collaboration.
 
