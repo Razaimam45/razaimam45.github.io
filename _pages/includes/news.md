@@ -10,6 +10,9 @@
 <div class="scrollable">
   <ul>
     <!-- New stuff to add here  -->
+    <li><strong>2025.06</strong>: One Paper Accepted at MIUA Conference 2025, Leeds, UK. (<font color="red">Oral</font>)!</li>
+    <li><strong>2025.04</strong>: Paper Presentation (Top 8.5%) at Annual Research Showcase, MBZUAI, UAE (<font color="red">Oral</font>)!</li>
+    <li><strong>2025.03</strong>: One Paper Accepted at ISBI 2025 in the session "Vision-Language Model", Houston, USA (<font color="red">Oral</font>)!</li>
     <li><strong>2024.11</strong>: Speaker at <a href="https://www.xpanse.world/">XPANSE 2024</a> in the Science Pitch Talks on the topic of "FLARE Up Your Data"!</li>
     <li><strong>2024.10</strong>: One first-authored paper on Low-Rank Test-Time adaptation is accepted at WACV 2025, Tucson, Arizona, USA (<font color="red">Poster</font>)!</li>
     <li><strong>2024.08</strong>: 🎉 Starting my PhD in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence: MBZUAI, UAE!</li>

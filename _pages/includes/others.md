@@ -17,16 +17,26 @@
 
 
 # 💬 Services
-- Journal Reviewer: 
-    - IEEE Transactions on Circuits and Systems for Video Technology
-    - IEEE Access
-    - Nature Scientific Reports
-    - Cryptologia
-- Conference Reviewer: 
-    - Sustainability and Resilience Conference (SRC) 2021, 2022, 2023.
+
+- Journal Reviewer**:  
+    - Nature Scientific Reports  
+    - IEEE Transactions on Circuits and Systems for Video Technology  
+    - ACM Transactions on Intelligent Systems and Technology  
+    - Springer Journal of Supercomputing  
+    - IEEE Access  
+    - Cryptologia  
+    - IEEE Transctions of Artificial Intelligence
+
+- Conference Reviewer**:  
+    - International Conference on Computer Vision (ICCV)  
+    - Winter Conference on Applications of Computer Vision (WACV)  
+    - Medical Image Understanding and Analysis (MIUA)  
+    - Sustainability and Resilience Conference (SRC)  
 
 
-# 💻 Internships
+# 💻 Experiences
+- *2024.08 - Present*, [BioMedia Lab](https://mbzuai-biomedia.com/biomedia/), Graduate Researcher, UAE.
+- *2022.09 - 2024.07*, [Sprint-AI Lab](https://www.sprintai.org/), Graduate Researcher, UAE.
 - *2023.06 - 2023.09*, [Fujairah Research Center](https://www.frc.ae/), Visiting Researcher, UAE.
 - *2021.03 - 2022.07*, [Aligarh Muslim University](https://www.amu.ac.in/department/computer-science), Research Assistant, India.
 - *2021.09 - 2021.12*, [National University of Malaysia, UKM](https://www.ukm.my/portalukm/), Research Intern, Malaysia.

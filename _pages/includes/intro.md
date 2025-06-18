@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi there! I am a first year PhD. candidate in [Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/research/department/computer-vision-department/). I completed my MS in [Machine Learning at MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
+Hi there! I am a second year PhD. candidate in [Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/research/department/computer-vision-department/) under the supervision of Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ) at [BioMedia Lab](https://mbzuai-biomedia.com/biomedia/). I completed my MS in [Machine Learning at MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
 <!-- I completed my bachelor's degree in [Computer Science at Aligarh Muslim University](https://www.amu.ac.in/department/computer-science) in July 2022, advised by Dr. [Faisal Anwer](https://scholar.google.com/citations?user=S-VW0mAAAAAJ&hl=en) and Dr. [Mohammad Nadeem](https://scholar.google.com/citations?user=yaEgXYMAAAAJ&hl=en). -->
 
 
@@ -12,11 +12,11 @@ Hi there! I am a first year PhD. candidate in [Computer Vision at the Mohamed Bi
 - Data Privacy: Membership Inference Attack
 - Data-related Applications: Federated Learning, Imbalanced Learning, Continual Learning -->
 
-**Research Interests**: I am mainly interested in model-centric AI and data-centric machine learning, including data privacy, model robustness, domain generalization, and healthcare related applications. My research investigates how to elevate data-centric approaches to improving the performance of machine learning models. Currently, I am securing large vision models (LVMs) so that they can be relied upon for effective real-world deployment. Previously, I focused on the following research topics:
-- Data Efficiency: Knowledge Distillation, Distribution Alignment
-- Data Security: Adversarial Training, Model Extraction Attack
-- Domain Generalization: Ensembling, Zero-shot Generalization 
-- Healthcare-related Applications: Federated Learning, Imbalanced Learning
+**Research Interests**: I am interested in AI-for-Healthcare and aim to build AI applications that are safe, robust, and deployable for downstream medical tasks. My work bridges model-centric and data-centric approaches to ensure generalizability and trust in clinical environments. Specifically:
+- Efficiency: Unsupervised Adaptation, Distillation
+- Trustworthiness: Adversarial Training, Test-Time Adaptation
+- Domain Generalization: Model Merging, Zero-shot Generalization
+- Current Focus: Robust Dermatology VLMs, LLM Merging
 
-🤔 For my MS thesis, I explored the aspects of domain generalization at test time, without any additional model training or fine-tuning, associated with in-domain, out-domain, and cross-domain data, particularly zero-shot generalization of large vision models like CLIP.
+🤔 I'm currently involved in 3 main projects: Test-time merging on Med-LLMs, A survey on Unsupervised Functions, Low-shot generalization of Derma-VLM. Please feel free to contact at `raza dot imam at mbzuai dot ac dot ae`.
 
