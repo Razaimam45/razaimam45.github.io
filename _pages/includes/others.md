@@ -116,12 +116,12 @@ My girlfriend and I have three cats together, they are very adorable and have br
 
     <div class="badge-container">
         <div class="badge">Bouldering Clymb</div>
-        <img src='images/RAZA_clymb.jpeg' alt="sym"/>
+        <img src='images/RAZA_clymb.JPG' alt="sym"/>
     </div>
 
     <div class="badge-container">
         <div class="badge">Scotland Trip</div>
-        <img src='images/RAZA_Edinburgh.jpeg' alt="sym"/>
+        <img src='images/RAZA_Edinburgh.jpg' alt="sym"/>
     </div>
 
     <div class="badge-container">
