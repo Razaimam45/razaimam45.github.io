@@ -21,10 +21,10 @@ Hi there! I am a second year PhD. candidate in [Computer Vision at the Mohamed B
 🤔 I'm currently involved in 3 main projects: Test-time merging on Med-LLMs, A survey on Unsupervised Functions, Low-shot generalization of Dermatology-VLM. Please feel free to contact at <span style="font-family:'Courier New', monospace;">raza dot imam at mbzuai dot ac dot ae</span> for collaboration.
 
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="images/MS_logo.jpg" alt="Image 1" style="height: 150px;">
-    <img src="images/MBZ_logo.png" alt="Image 2" style="height: 150px;">
-    <img src="images/biomedia_logo.png" alt="Image 3" style="height: 150px;">
-    <img src="images/sprintai_logo.png" alt="Image 4" style="height: 150px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    <img src="images/MS_logo.jpg" alt="Image 1" style="height: 120px; max-width: 100%;">
+    <img src="images/MBZ_logo.png" alt="Image 2" style="height: 120px; max-width: 100%;">
+    <img src="images/biomedia_logo.png" alt="Image 3" style="height: 120px; max-width: 100%;">
+    <img src="images/sprintai_logo.png" alt="Image 4" style="height: 120px; max-width: 100%;">
 </div>
 

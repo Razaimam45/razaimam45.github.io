@@ -135,7 +135,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        gap: 1rem;
+        gap: 10rem;
     }
 
     .badge-container {
