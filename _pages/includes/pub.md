@@ -94,7 +94,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
 [SEDA: Self-ensembling ViT with Defensive Distillation and Adversarial Training for Robust Chest X-Rays Classification](https://arxiv.org/abs/2308.07874) \\
 <b>Raza Imam<sup>#</sup></b>, Ibrahim Almakky, Salma Alrashdi, Baketah Alrashdi, Mohammad Yaqub. (MICCAI 2023) <a href="https://github.com/Razaimam45/SEDA">code</a> 
 
-- <font color="red">TLDR;</font> SEDA utilizes efficient CNN blocks to learn spatial features with various levels of abstraction from feature representations extracted from intermediate ViT blocks, that are largely unaffected by adversarial perturbations. Furthermore, SEDA leverages adversarial training in combination with defensive distillation for improved robustness against adversaries. Extensive experiments performed with the proposed architecture and training paradigm on publicly available Tuberculosis x-ray dataset shows SOTA efficacy of SEDA compared to SEViT in terms of computational efficiency with 70x times lighter framework and enhanced robustness of +9%.
+- <font color="red">TLDR;</font> SEDA utilizes efficient CNN blocks to learn spatial features with various levels of abstraction from feature representations extracted from intermediate ViT blocks, that are largely unaffected by adversarial perturbations. SEDA achieves computational efficiency of 70x times lighter framework and enhanced robustness of +9%.
 
 </div>
 </div>
@@ -106,7 +106,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
   <b>Raza Imam</b>, Muhammad Huzaifa<sup>#</sup>, Mohammed El-Amine Azz.
   (MIUA 2023) <a href="https://github.com/Muhammad-Huzaifaa/Defensive_Diffusion">code</a> 
 
-- <font color="red">TLDR;</font> In this work, we introduced a defensive diffusion technique as an adversarial purifier to eliminate adversarial noise introduced by attackers in the original image. By utilizing the denoising capabilities of the diffusion model, we employ a reverse diffusion process to effectively eliminate the adversarial noise from the attack sample, resulting in a cleaner image that is then fed into the ViT blocks. Extensive experiments conducted on a publicly available Tuberculosis X-ray dataset validate the computational efficiency and improved robustness achieved by our proposed architecture.
+- <font color="red">TLDR;</font> We introduced a defensive diffusion technique as an adversarial purifier to eliminate adversarial noise introduced by attackers in the original image. Extensive experiments conducted on a publicly available Tuberculosis X-ray dataset validate the computational efficiency and improved robustness achieved by our proposed architecture.
 </div>
 </div>
 
@@ -129,7 +129,7 @@ Maryam Nadeem<sup>#</sup>, <b>Raza Imam<sup>*</sup></b>, Rouqaiah Al-Refai<sup>*
 [A systematic literature review of attribute based encryption in health services](https://www.sciencedirect.com/science/article/pii/S1319157822002269) \\
 <b>Raza Imam</b>, Kaushal Kumar, Syed Mehran Raza, Rumi Sadaf, Faisal Anwer<sup>#</sup>, Noor Fatima, Mohammad Nadeem, Mohamed Abbas, Obaidur Rahman. (Elsevier JKSU)
 
-- <font color="red">TLDR;</font> This survey presents a systematic and comprehensive study of ABE works concerning E-Health as the authors rigorously investigate healthcare-focused ABE frameworks and examine them based on various descriptive criteria, along with categorizing them systematically in 10 distinct domains and sub-domains, ultimately offering observations and potential recommendations. The descriptive research design, significant findings along with the suggested future works will help future research in ABE to secure the existing E-Health data sharing more effectively.
+- <font color="red">TLDR;</font> A systematic and comprehensive study of ABE works concerning E-Health as the authors rigorously investigate healthcare-focused ABE frameworks. This will help future research in ABE to secure the existing E-Health data sharing more effectively.
 </div>
 </div>
 

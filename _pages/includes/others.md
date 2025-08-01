@@ -108,6 +108,11 @@ My girlfriend and I have three cats together, they are very adorable and have br
         <div class="badge">Georgia Trip</div>
         <img src='images/RAZA_travel.jpeg' alt="sym"/>
     </div>
+
+    <div class="badge-container">
+        <div class="badge">Uzbekistan Trip</div>
+        <img src='images/RAZA_Uzbek.jpeg' alt="sym"/>
+    </div>
     
 </div>
 
