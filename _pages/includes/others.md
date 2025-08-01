@@ -96,17 +96,17 @@ My girlfriend and I have three cats together, they are very adorable and have br
 
     <div class="badge-container">
         <div class="badge">Football Team</div>
-        <img src='images/RAZA_football.jpeg' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_football.jpeg' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
     
     <div class="badge-container">
         <div class="badge">MBZUAI Sports Week</div>
-        <img src='images/RAZA_basketball.jpeg' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_basketball.jpeg' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
     
     <div class="badge-container">
         <div class="badge">Georgia Trip</div>
-        <img src='images/RAZA_travel.jpeg' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_travel.jpeg' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
     
 </div>
@@ -115,20 +115,51 @@ My girlfriend and I have three cats together, they are very adorable and have br
 
     <div class="badge-container">
         <div class="badge">Bouldering Clymb</div>
-        <img src='images/RAZA_clymb.JPG' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_clymb.JPG' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
 
     <div class="badge-container">
         <div class="badge">Scotland Trip</div>
-        <img src='images/RAZA_Edinburgh.jpg' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_Edinburgh.jpg' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
 
     <div class="badge-container">
         <div class="badge">Uzbekistan Trip</div>
-        <img src='images/RAZA_Uzbek.jpeg' alt="sym" style="height: 200px;"/>
+        <img src='images/RAZA_Uzbek.jpeg' alt="sym" style="width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover;"/>
     </div>
 
 </div>
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .badge-container {
+        flex: 1 1 calc(33.333% - 1rem); /* Adjusts to fit three items per row */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+    }
+
+    .badge {
+        padding: 0.5rem 1rem;
+        margin-top: 0.5em;
+        color: white;
+        background-color: #00369f;
+        font-size: 0.8em;
+        text-align: center;
+    }
+
+    img {
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+</style>
 
 
 
