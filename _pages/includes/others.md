@@ -96,37 +96,36 @@ My girlfriend and I have three cats together, they are very adorable and have br
 
     <div class="badge-container">
         <div class="badge">Football Team</div>
-        <img src='images/RAZA_football.jpeg' alt="sym"/>
+        <img src='images/RAZA_football.jpeg' alt="sym" style="height: 200px;"/>
     </div>
     
     <div class="badge-container">
         <div class="badge">MBZUAI Sports Week</div>
-        <img src='images/RAZA_basketball.jpeg' alt="sym"/>
+        <img src='images/RAZA_basketball.jpeg' alt="sym" style="height: 200px;"/>
     </div>
     
     <div class="badge-container">
         <div class="badge">Georgia Trip</div>
-        <img src='images/RAZA_travel.jpeg' alt="sym"/>
+        <img src='images/RAZA_travel.jpeg' alt="sym" style="height: 200px;"/>
     </div>
     
 </div>
-
 
 <div class="container">
 
     <div class="badge-container">
         <div class="badge">Bouldering Clymb</div>
-        <img src='images/RAZA_clymb.JPG' alt="sym"/>
+        <img src='images/RAZA_clymb.JPG' alt="sym" style="height: 200px;"/>
     </div>
 
     <div class="badge-container">
         <div class="badge">Scotland Trip</div>
-        <img src='images/RAZA_Edinburgh.jpg' alt="sym"/>
+        <img src='images/RAZA_Edinburgh.jpg' alt="sym" style="height: 200px;"/>
     </div>
 
     <div class="badge-container">
         <div class="badge">Uzbekistan Trip</div>
-        <img src='images/RAZA_Uzbek.jpeg' alt="sym"/>
+        <img src='images/RAZA_Uzbek.jpeg' alt="sym" style="height: 200px;"/>
     </div>
 
 </div>
