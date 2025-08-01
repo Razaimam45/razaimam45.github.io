@@ -92,7 +92,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
     }
 </style>
 
-<div class="container">
+<div class="container" style="gap: 2rem;">
 
     <div class="badge-container">
         <div class="badge">Football Team</div>
@@ -111,7 +111,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
     
 </div>
 
-<div class="container">
+<div class="container" style="gap: 2rem;">
 
     <div class="badge-container">
         <div class="badge">Bouldering Clymb</div>
@@ -135,7 +135,7 @@ My girlfriend and I have three cats together, they are very adorable and have br
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        gap: 10rem;
+        gap: 1rem;
     }
 
     .badge-container {
