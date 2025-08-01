@@ -22,9 +22,9 @@ Hi there! I am a second year PhD. candidate in [Computer Vision at the Mohamed B
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
-    <img src="images/MS_logo.jpg" alt="Image 1" style="height: 60px; max-width: 100%;">
-    <img src="images/MBZ_logo.png" alt="Image 2" style="height: 60px; max-width: 100%;">
-    <img src="images/biomedia_logo.png" alt="Image 3" style="height: 60px; max-width: 100%;">
-    <img src="images/sprintai_logo.png" alt="Image 4" style="height: 60px; max-width: 100%;">
+    <img src="images/MS_logo.jpg" alt="Image 1" style="height: 60px; max-width: 100%; box-shadow: none; border-radius: 0;">
+    <img src="images/MBZ_logo.png" alt="Image 2" style="height: 60px; max-width: 100%; box-shadow: none; border-radius: 0;">
+    <img src="images/biomedia_logo.png" alt="Image 3" style="height: 60px; max-width: 100%; box-shadow: none; border-radius: 0;">
+    <img src="images/sprintai_logo.png" alt="Image 4" style="height: 60px; max-width: 100%; box-shadow: none; border-radius: 0;">
 </div>
 
