@@ -28,6 +28,7 @@
     - IEEE Transctions of Artificial Intelligence
 
 - Conference Reviewer:  
+    - Conference on Computer Vision and Pattern Recognition (CVPR)
     - International Conference on Computer Vision (ICCV)  
     - Winter Conference on Applications of Computer Vision (WACV)  
     - Medical Image Understanding and Analysis (MIUA)  
@@ -35,6 +36,7 @@
 
 
 # 💻 Experiences
+- *2025.09 - 2025.12*, [Microsoft Research India, Bangalore](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), Visiting Researcher, India.
 - *2024.08 - Present*, [BioMedia Lab](https://mbzuai-biomedia.com/biomedia/), Graduate Researcher, UAE.
 - *2022.09 - 2024.07*, [Sprint-AI Lab](https://www.sprintai.org/), Graduate Researcher, UAE.
 - *2023.06 - 2023.09*, [Fujairah Research Center](https://www.frc.ae/), Visiting Researcher, UAE.
