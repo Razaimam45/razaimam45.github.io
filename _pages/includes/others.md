@@ -47,13 +47,13 @@
 # 🎙 Miscellaneous
 
 ### Travel
-I enjoy traveling with my family and friends. I am always excited about visiting new places and learning about different cultures.
+Raza enjoys traveling with his family and friends. He is always excited about visiting new places and learning about different cultures.
 
 ### Sports
-I love playing sports and always make time for football, badminton, and table tennis. I have played taekwondo professionally before and represented my university in badminton and table tennis competitions.
+Raza loves playing sports and always makes time for football, badminton, and table tennis. He has played taekwondo professionally before and represented his university in badminton and table tennis competitions.
 
 <!-- ### My cat
-My girlfriend and I have three cats together, they are very adorable and have brought a lot of fun to our lives! -->
+Raza and his girlfriend have three cats together; they are very adorable and have brought a lot of fun to their lives! -->
 
 <!-- <img src="../../images/cat1.jpeg" width = "300" alt="图片名称" align=center />  
 <img src="../../images/cat4.jpeg" width = "300" alt="图片名称" align=center /> 
