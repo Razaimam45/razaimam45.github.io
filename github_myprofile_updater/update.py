@@ -1,6 +1,6 @@
 if __name__ == '__main__':
     _header = '## Hi there 👋'
-    base_dir = '../_pages/includes/'
+    base_dir = '../_pages/includes'
     _intro = open(f'{base_dir}/intro.md').read().strip()
     _homepage = open(f'{base_dir}/homepage.md').read().strip()
     _pub = open(f'{base_dir}/pub_short.md').read().strip()
