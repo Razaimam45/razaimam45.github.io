@@ -165,6 +165,8 @@ Raza and his girlfriend have three cats together; they are very adorable and hav
     }
 </style>
 
+### Favorite Quote
+``When you give flowers to a loved one on a special occasion, are they made of plastic so that they live forever? No, they're made of flower petals. But there's a pistil, there's a stamen, there's a stalk, and that will all die. And it's the fact that it dies that empowers our emotions to appreciate it that much more. So the finiteness of life forces me to appreciate every sunrise that I wake up every day. And if I live forever, I don't know that I would have those emotions or those feelings or that sense that the day awaits my energy. And so, a much scarier prospect than dying for me is the prospect of living forever`` ~~ Neil deGrasse Tyson
 
 
 
