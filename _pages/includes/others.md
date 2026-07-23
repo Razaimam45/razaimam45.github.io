@@ -28,11 +28,13 @@
     - IEEE Transctions of Artificial Intelligence
 
 - Conference Reviewer:  
+    - Neural Information Processing Systems (NeurIPS)
     - Conference on Computer Vision and Pattern Recognition (CVPR)
     - International Conference on Computer Vision (ICCV)  
-    - Winter Conference on Applications of Computer Vision (WACV)  
+    - European Conference on Computer Vision (ECCV)
+    - Winter Conference on Applications of Computer Vision (WACV)
     - Medical Image Understanding and Analysis (MIUA)  
-    - Sustainability and Resilience Conference (SRC)  
+    <!-- - Sustainability and Resilience Conference (SRC) -->
 
 
 # 💻 Experiences

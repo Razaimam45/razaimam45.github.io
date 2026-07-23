@@ -10,6 +10,10 @@
 <div class="scrollable">
   <ul>
     <!-- New stuff to add here  -->
+    <li><strong>2026.07</strong>: Explore the <a href="https://github.com/BioMedIA-MBZUAI/MoBE-A-Test-Time-Modality-Generalization-Method">MoBE GitHub repository</a>, star the project, and try out <a href="https://github.com/BioMedIA-MBZUAI/MoBE-A-Test-Time-Modality-Generalization-Method/blob/main/example.ipynb">example.ipynb</a> to play around with the examples.</li>
+    <li><strong>2026.06</strong>: One early accepted paper on Test-Time Modality Generalization, at MICCAI 2026, Strasbourg, France (Top 9%)!.</strong></li>
+    <li><strong>2026.06</strong>: One collaborative first-author paper is accepted at MICCAI 2026, Strasbourg, France!</li>
+    <li><strong>2026.04</strong>: One paper is accepted at IJCNN 2026: Stride-Net, Maastricht, Netherlands.</li>
     <li><strong>2025.12</strong>: Finished Visiting Research position at Microsoft Research India, Bangalore!</li>
     <li><strong>2025.09</strong>: Started Visiting Research position at Microsoft Research India, Bangalore!</li>
     <li><strong>2025.07</strong>: Two Papers on VLMs are Accepted at ICCVxCLVL and MICCAI-endorsed ICCVxCVAMD 2025, Hawaii, USA. (<font color="red">Poster</font>)!</li>
