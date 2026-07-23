@@ -18,7 +18,7 @@ Hi there! Raza is a senior (third-year) PhD candidate in [Computer Vision at the
 - Domain Generalization: Model Merging, Zero-shot Generalization
 - Current Focus: Robust Dermatology VLMs, Latent Representations
 
-🤔 Raza is currently involved in 3 main projects: Test-time calibration on Med-VLMs, Low-shot generalization of Dermatology-VLMs. Please feel free to contact Raza at <span style="font-family:'Courier New', monospace;">raza dot imam at mbzuai dot ac dot ae</span> for collaboration.
+🤔 Raza is currently involved in these projects: Test-time calibration on Med-VLMs, Low-shot generalization of Dermatology-VLMs. Please feel free to contact Raza at <span style="font-family:'Courier New', monospace;">raza dot imam at mbzuai dot ac dot ae</span> for collaboration.
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
